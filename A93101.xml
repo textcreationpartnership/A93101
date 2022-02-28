@@ -1,0 +1,1146 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The times displayed in six sestyads: the first [brace] a Presbyter, an Independent. The second [brace] an Anabaptist and a Brownist. The third [brace] an Antinomian and a Familist. The fourth [brace] a Libertine and an Arminian. The fift [brace] a Protestant and eke a Papist. All these dispute in severall tracts, and be divulgers, as of truth, so fallacie. The sixt [brace] Apollo, grieves to see the times so pester'd with mechanicks slavish rimes.</title>
+            <author>Sheppard, S. (Samuel).</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 38 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93101</idno>
+            <idno type="STC">Wing S3170</idno>
+            <idno type="STC">Thomason E365_10</idno>
+            <idno type="STC">ESTC R201251</idno>
+            <idno type="EEBO-CITATION">99861781</idno>
+            <idno type="PROQUEST">99861781</idno>
+            <idno type="VID">113926</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93101)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113926)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 58:E365[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The times displayed in six sestyads: the first [brace] a Presbyter, an Independent. The second [brace] an Anabaptist and a Brownist. The third [brace] an Antinomian and a Familist. The fourth [brace] a Libertine and an Arminian. The fift [brace] a Protestant and eke a Papist. All these dispute in severall tracts, and be divulgers, as of truth, so fallacie. The sixt [brace] Apollo, grieves to see the times so pester'd with mechanicks slavish rimes.</title>
+                  <author>Sheppard, S. (Samuel).</author>
+               </titleStmt>
+               <extent>24 p., [1] leaf of fold. plates : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed and are to be sold by J.P. at his shop neer the Sessions house in the Old Bayly.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Samuel Sheppard by Wing.</note>
+                  <note>In verse.</note>
+                  <note>Annotation on Thomason copy: "Dec: 7th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian sects --  England --  Controversial literature --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  17th century --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-07</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-07</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:113926:1"/>
+            <p>
+               <table>
+                  <row>
+                     <cell>
+                        <figure>
+                           <head>Profane Liberty</head>
+                        </figure>
+                     </cell>
+                     <cell>
+                        <figure>
+                           <head>Envious Hipocreſie</head>
+                        </figure>
+                     </cell>
+                     <cell>
+                        <figure>
+                           <head>Ieſuitecall Pollicie</head>
+                        </figure>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell cols="3">Three Grand Enimies to Church and State</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <lg>
+                           <l>Sins captiue, grace abuſer</l>
+                           <l>Couenant beaker ſoules deceiver</l>
+                           <l>Voyd of zeale filld with ſin</l>
+                           <l>Given up to die therein</l>
+                        </lg>
+                     </cell>
+                     <cell>
+                        <lg>
+                           <l>To pretious truthes an enimie</l>
+                           <l>Filld with pride and cruiltie</l>
+                           <l>And fills larg Tracts with fowle diſgrace</l>
+                           <l>Of truthes deare ones that hir imbrace</l>
+                        </lg>
+                     </cell>
+                     <cell>
+                        <lg>
+                           <l>Till Ante chriſt ſhall ruind bee</l>
+                           <l>Great combuſtions wee muſt ſee</l>
+                           <l>With errors ſhall the world be led</l>
+                           <l>But chriſt his ſpouſe himſelfe will guide</l>
+                        </lg>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:113926:1" rendition="simple:additions"/>
+            <p>The times Diſplayed IN SIX SESTYADS: The firſt <hi>A Presbyter, an Independent.</hi> The ſecond <hi>An Anabaptiſt and a Browniſt</hi> The third <hi>An Antinomian and a Familiſt</hi> The fourth <hi>A Libertine and an Arminian.</hi> The Fift <hi>A Proteſtant and eke a Papiſt</hi> All theſe diſpute in ſeverall Tracts, and be Divulgers, as of Truth, ſo Fallacie. The ſixt <hi>Apollo, grieves to ſee the Times
+<lb/>So peſter'd with Mechannicks laviſh Rimes.</hi>
+            </p>
+            <p>Scribimus indocti, Doctique Poemata Paſſim.</p>
+            <p>
+               <hi>London,</hi> Printed and are to be ſold by I. P. at his ſhop neer the Seſſions houſe in the old <hi>Bayly.</hi> 1646.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:113926:2"/>
+            <pb facs="tcp:113926:2"/>
+            <head>To the Right Honourable <hi>Philip Herbert</hi> Earl of Pembrook.</head>
+            <lg>
+               <l>VOuchſafe great Lord, that art our Nations pride</l>
+               <l>In whoſe rare Vertues, they alone conſide</l>
+               <l>To be the Patron, of my humble Muſe</l>
+               <l>Who doth thee onely, her Maecenas chuſe:</l>
+               <l>This work diſplayes the times, therefore tis meet</l>
+               <l>I ſhould preſent it, humbly at thy feet</l>
+               <l>Who art no ſever of the times, but thou</l>
+               <l>Will ſerve thy Nation, and thy help allow</l>
+               <l>For to maintain their Priviledges and be</l>
+               <l>A propogator, of Gods veritie.</l>
+               <l>To thee therefore great Lord, this work I give</l>
+               <l>That I and it, may in thy favour live.</l>
+               <closer>
+                  <signed>Your Honours most obedient Servant, S. SHEPPARD.</signed>
+               </closer>
+            </lg>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:113926:3"/>
+            <head>An Anagram on the Name of the Right Honourable <hi>Philip Herbert</hi> Earl of Pembrook.</head>
+            <p>EARLE PHILIP HERBERT <hi>Anagram</hi> Pear help all Libertie.</p>
+            <lg>
+               <l>Pear help all libertie, Great Lord we finde</l>
+               <l>How well thy Name, hath ſuited to thy mind.</l>
+            </lg>
+            <lg>
+               <l>When England was in danger ſlav'd to be</l>
+               <l>Then thou great Lord, didſt help all Libertie</l>
+               <l>And by thy circumſpect, and prudent wit</l>
+               <l>Sawſt evill coming and diverted it;</l>
+               <l>To thee therefore a trophie I will raiſe</l>
+               <l>And ſing in Verſe, that aye ſhall laſt (thy praiſe.)</l>
+            </lg>
+         </div>
+      </front>
+      <body>
+         <head>
+            <pb n="5" facs="tcp:113926:3"/>THE TIMES DISPLAYED IN SIX SESTIADS.</head>
+         <div n="1" type="part">
+            <head>THE FIRST SESTIAD:</head>
+            <argument>
+               <head>The Argument,</head>
+               <l>
+                  <hi>An</hi> Independent <hi>and a</hi> Presbyter</l>
+               <l>
+                  <hi>Their ſeverall Tenents, each do here prefer;</hi>
+               </l>
+               <l>
+                  <hi>And while they,</hi> pro <hi>and</hi> con <hi>do argue, we</hi>
+               </l>
+               <l>
+                  <hi>May judge of both, and which most erreth ſee.</hi>
+               </l>
+            </argument>
+            <sp>
+               <speaker>INDEPENDENT</speaker>
+               <l>AND have we ſpent our bloods to gain no more</l>
+               <l>We are as wretched as we were before</l>
+               <l>When as the Lordly Prelates, ruld the Land</l>
+               <l>Making Gods Truth, to ſtoop to your command</l>
+               <l>O thou immortall Rector when ſhall we</l>
+               <l>Be as we ought, and have our conſcience free</l>
+               <l>From mens Injunctions.</l>
+            </sp>
+            <sp>
+               <speaker>PRESBYTER,</speaker>
+               <l>"See mans nature is</l>
+               <l>"Never contented, though he be in bliſſe.</l>
+               <l>"He would have yet more joy, why knowſt thou not,</l>
+               <l>Or hath thy ſhallow memory forgot,</l>
+               <l>What great immunities are purchaſed</l>
+               <l>Since the great, little Prelate, loſt his head</l>
+               <pb n="6" facs="tcp:113926:4"/>
+               <l>Are we not free from Papiſts lordly Reign</l>
+               <l>Who ruld, <hi>Charls</hi> onely called Soveraign;</l>
+               <l>Is not the throst of <hi>Inovation</hi> cut</l>
+               <l>Are not our Enemies, in pinſolds that;</l>
+               <l>Are not thoſe Courts, that rackt the Commons purſes</l>
+               <l>"Receiving oft, their ſilver, with their curſes</l>
+               <l>Aboliſht, i<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> not that ſome fatall court</l>
+               <l>
+                  <hi>Star Chamber</hi> cald, where ſix Lords could extort</l>
+               <l>What they would from the Common, now put down</l>
+               <l>And in the ſtead mercy and Juſtice ſhown.</l>
+               <l>Are not all envious ſuckers.</l>
+            </sp>
+            <sp>
+               <speaker>Independent</speaker>
+               <l>He, whoſe this</l>
+               <l>My utter enemy, I ween it is,</l>
+               <l>As the ill boding Scrilch-owl I do hate</l>
+               <l>Thy ſpeeches, tell me art thou <hi>Conſecrate,</hi>
+               </l>
+               <l>An <hi>Elder,</hi> whom I may dechipher thus</l>
+               <l>
+                  <hi>Hodie Clericus, cr<gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> Lui<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>us:</hi>
+               </l>
+               <l>Thee and thy tenents I abhor and hate</l>
+               <l>As errors, do all miſchiefe properate</l>
+               <l>Perhaps thou art an <hi>Expactant,</hi> luch there be</l>
+               <l>Who waite Election, in the Presbytery</l>
+               <l>I hold the Rule, of your Archi-ſynagogie</l>
+               <l>To be a cruell, Rigorous Tyrannie</l>
+               <l>Your high Sanhedrim, by which you undertake</l>
+               <l>Your Fellow Commoners, meer ſlaves to make</l>
+               <l>Your great Aſſembly is above all power</l>
+               <l>And what you pleaſe, you turn, and change each houre</l>
+               <l>So that I de rather chuſe, a ſlave to be</l>
+               <l>And vaſſaild, to the Biſhops Hierchie</l>
+               <l>Then unto you ſubjected, pray whence roſe</l>
+               <l>Your Reformation, but from <hi>Knox,</hi> and thoſe</l>
+               <l>Seditious ones <hi>Melvill</hi> and <hi>Liſley,</hi> and</l>
+               <l>
+                  <hi>Peter Carmichael,</hi> who once did ſtund</l>
+               <l>In open oppoſition gainſt all Law</l>
+               <l>
+                  <hi>In ordine ad Spiritualia.</hi>
+               </l>
+            </sp>
+            <sp>
+               <pb n="7" facs="tcp:113926:4"/>
+               <speaker>Presbyter</speaker>
+               <l> O Thou deluded, that art enemie</l>
+               <l>To God, doth not the ſacred verity</l>
+               <l>Confirm, and eke command the Church ſhould be</l>
+               <l>Guided by a Judicious Presbyterie</l>
+               <l>Thy Allegations are moſt falſe and naught,</l>
+               <l>Such as the Feind into thy mind hath brought:</l>
+               <l>Thou art a Libertine, and wouldſt have none</l>
+               <l>To govern thee, but thy falſe heart alone</l>
+               <l>Woe be to <hi>England,</hi> hadſt thou thy deſire</l>
+               <l>Whoſe thoughts are ſwords, whoſe actions are fire</l>
+               <l>To ruin thine oppoſers, praiſed be</l>
+               <l>To the Almighties Sacred Maieſtie</l>
+               <l>Our prudent Parliament, do now proceed</l>
+               <l>To ſettle</l>
+            </sp>
+            <sp>
+               <speaker>Independent.</speaker>
+               <l> What they have decreed</l>
+               <l>Theil finde when they have ſetled it moſt ſure</l>
+               <l>Tis built on ſand, and cannot long indure.</l>
+            </sp>
+            <sp>
+               <speaker>Presbyter.</speaker>
+               <l> Well go thy wayes, let Sathan and his crue</l>
+               <l>Theu moſt of your wicked ends perſue,</l>
+               <l>God will preſerve his Church, and maugre all</l>
+               <l>Will have his own will to be principall</l>
+               <l>After ſo long obſeurity, he now</l>
+               <l>Is pleaſd unto his ſervants light to ſhew,</l>
+               <l>The true light of his face, the government,</l>
+               <l>He gave to his Apoſtles, with intent</l>
+               <l>They and the true Church, ever ſhould obſerve</l>
+               <l>Which having purchaſd, grant Lord, nere ſwerve</l>
+               <l>There-from, but us and ours imbrace it may</l>
+               <l>Untill the laſt, and dreadfull Judgement day,</l>
+            </sp>
+            <trailer> The end of the firſt Seſtiad.</trailer>
+         </div>
+         <div n="2" type="part">
+            <pb n="8" facs="tcp:113926:5"/>
+            <head>The Second Seſtyad.</head>
+            <argument>
+               <head>The Argument</head>
+               <l>
+                  <hi>An Anabaptiſt and a Browniſt here</hi>
+               </l>
+               <l>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>nmask themſelves, and make the filth appear,</hi>
+               </l>
+               <l>
+                  <hi>The while the one contendeth for himſelf</hi>
+               </l>
+               <l>
+                  <hi>Averring he ought not baptize his elfe</hi>
+               </l>
+               <l>
+                  <hi>Till hees of age, the other worſe deluded</hi>
+               </l>
+               <l>
+                  <hi>Saith, Godhath England from the Church exculded.</hi>
+               </l>
+            </argument>
+            <sp>
+               <speaker>Anabaptiſt.</speaker>
+               <l>After ſo long a night, of woe and ſorrow</l>
+               <l>Behold a fair, and delicious morrow</l>
+               <l>After ſo many years, when we oppreſt</l>
+               <l>Were fin'd impriſoned, and could never reſt</l>
+               <l>For the <hi>Beaſt, Image,</hi> the hated Biſhops (now)</l>
+               <l>We openly, and without, dread avow</l>
+               <l>Our tenents, dipping maids, and wives each day</l>
+               <l>Their naturall concupicence to allay,</l>
+               <l>And although ſome we drown, thoſe drowned ſo</l>
+               <l>Doe but by water unto heaven go,</l>
+               <l>And—</l>
+            </sp>
+            <sp>
+               <speaker>Brow.</speaker>
+               <l> Ile not beleeve the Church of <hi>England</hi> is:</l>
+               <l>A true Church, making my aſſurance this,</l>
+               <l>When Biſhops and their government did ſtand</l>
+               <l>And Popery was uſed in the Land</l>
+               <l>By ſinging, cringing, worſhipping of tables</l>
+               <l>Chriſtning of bells, with many other Fables,</l>
+               <pb n="9" facs="tcp:113926:5"/>
+               <l>Twas then an <note n="*" place="margin">The <hi>Brow niſts</hi> hold our church to be Anti<g ref="char:EOLhyphen"/>chriſtian &amp; Hereti<g ref="char:EOLhyphen"/>cal; that becaus we have no Church, they are to ſever themſelves from us, that with<g ref="char:EOLhyphen"/>out civil authority they are to erect a Church of their own.</note> Antichriſtian Church, and now</l>
+               <l>They ſeem thoſe errors, for to diſavow</l>
+               <l>Inſtead thereof the <hi>Engliſh</hi> Parlament.</l>
+               <l>Set up a worſer, fiercer Government.</l>
+               <l>The ſpawn of Biſhops, now muſt rule, I gather</l>
+               <l>The wandering iſſue, of a miſled Father</l>
+               <l>For the Presbyterie, the wiſe can tel</l>
+               <l>We juſtly may with Biſhops paralel,</l>
+               <l>From them their Power's deriv'd</l>
+            </sp>
+            <sp>
+               <speaker>Anabaptiſt,</speaker>
+               <l> All hail to thee</l>
+               <l>Dear Brother of our NONCONFORMITIE;</l>
+               <l>Both thee and I, like <hi>Sampſons</hi> Foxes do</l>
+               <l>Burn up <hi>Gods</hi> vineyard, work the Church much wo,</l>
+               <l>Why then are we eſtranged each from other,</l>
+               <l>Let mee imbrace thee, in my arms my Brother.</l>
+            </sp>
+            <sp>
+               <speaker>Browniſt.</speaker>
+               <lg>
+                  <l> Stay good, my friend, and know twixt thee &amp; me</l>
+                  <l>There is a very vaſt Antipathie,</l>
+                  <l>I do not hold that Beaſts from death ſhal riſe</l>
+                  <l>At the laſt day, nor yet in any wiſe</l>
+                  <l>Can I beleeve, that ere the Damned ſhall</l>
+                  <l>After ſome torments be releaſed all,</l>
+                  <l>And plac'd in heavenly joys, for ſo you hold.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Anabap.</speaker>
+               <l> Why then my Friend thou haſt the worſt on's told</l>
+               <l>By manifeſt *, that they may proved bee,</l>
+               <l>Thou now recitedſt, as an hereſie, <note place="margin">Scriptures</note>
+               </l>
+               <l>And this aſſure thy ſelf, who ere is not</l>
+               <l>Of our Society, ſhal have his lot</l>
+               <l>Amongeſt the Damned, evermore to dwel,</l>
+               <l>Wailing his error, in the loweſt Hel.</l>
+            </sp>
+            <sp>
+               <speaker>Browniſt.</speaker>
+               <l> Raſhly concluded, thus each Sect doth ſay</l>
+               <l>He that treads not their paths, errs from the way.</l>
+            </sp>
+            <trailer>The end of the ſecond Seſtiad.</trailer>
+         </div>
+         <div n="3" type="part">
+            <pb n="10" facs="tcp:113926:6"/>
+            <head>The third Seſtyad.</head>
+            <argument>
+               <head>The Argument</head>
+               <l>One of the Family of Love</l>
+               <l>With an Antinomian meets</l>
+               <l>And divers queſtions they do move</l>
+               <l>Not parting without threats.</l>
+            </argument>
+            <sp>
+               <speaker>Familist.</speaker>
+               <l>A <hi>Mor omnia vincit,</hi> 'twas that which mov'd</l>
+               <l>God for to come on earth, becauſe he lov'd</l>
+               <l>The ſons of men, tis love that all creates</l>
+               <l>Tis love that men and creatures propogates</l>
+               <l>Did men but know the ſweet ſociety</l>
+               <l>We do enjoy are of loves family</l>
+               <l>They would reject their burthenſome Eſtate</l>
+               <l>And make themſelves with us Incorporate,</l>
+               <l>How many Queenes, and princeſſes of might</l>
+               <l>To be made one of us, have tane delight,</l>
+               <l>As <hi>Meſſalina, Cleopatra,</hi> 
+                  <note n="*" place="margin">FLORA</note> She</l>
+               <l>Romes vulgar honour as a Dietie</l>
+               <l>
+                  <hi>Lais</hi> and <hi>Thais,</hi> O Ime raviſhed</l>
+               <l>To think upon the pleaſant Lectures read</l>
+               <l>To us, when we in full Aſſembly met,</l>
+               <l>The ſiſters on the brothers laps being ſet</l>
+               <l>Nothing but love our harmeleſſe ſouls deſire</l>
+               <l>With love, each of our hearts is ſet on fire</l>
+               <l>This love we cheriſh, by all wayes we may</l>
+               <l>For tis good our loves ſhould ought decay</l>
+               <pb n="11" facs="tcp:113926:6"/>
+               <l>And therefore Oyſters, Lobſters, we prepare</l>
+               <l>Eringoes tatoes, and ſuch toyiſh fare,</l>
+               <l>And this we do, to preſerve love in us</l>
+               <l>For <hi>ſine Cerere &amp; Bacho, friget Venus.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Anti,</speaker>
+               <l> My eares are bliſter'd; O what have I heard</l>
+               <l>And art thou not thou beaſt at all afeard</l>
+               <l>Of Hell, or thinkſt thou the Almighty ſleeps</l>
+               <l>Why he a bedrole of thy baſeneſſe keeps</l>
+               <l>And will take vengeance on thee that doſt make</l>
+               <l>Religion cloak thy evills.</l>
+            </sp>
+            <sp>
+               <speaker>Familist.</speaker>
+               <lg>
+                  <l> Doſt thou take</l>
+                  <l>In hand ſin to reprove, whoſe ſins are ſuch</l>
+                  <l>That of thy blaſphemies, there cant too much</l>
+                  <l>Be ſpoken, thou denieſt, the Law was given</l>
+                  <l>To be mans Rule, although the Lord from heaven</l>
+                  <l>Girt in bright flames, with awfull Majeſty</l>
+                  <l>The while the Trumpet ſounded from on hie</l>
+                  <l>Denounced Death, to him the ſame ſhould break</l>
+                  <l>And yet you dare with boldneſſe for to ſpeak</l>
+                  <l>And to divulge, you from the Law are freed</l>
+                  <l>And you of nought but faith do ſtand in need.</l>
+               </lg>
+               <lg>
+                  <l>Again, you teach, averring impiouſly</l>
+                  <l>Your ſins are pardond, ere committed be</l>
+                  <l>Why then it ſeems Chriſt Jeſus, to no end</l>
+                  <l>his heavenly <hi>pater noſter</hi> did commend</l>
+                  <l>To his Diſciples, bidding them deſire</l>
+                  <l>Forgiveneſſe of their ſins, as the juſt hire</l>
+                  <l>Of their forgiving others, ſome there be</l>
+                  <l>Of your ſweet Sect, that do unanimouſly</l>
+                  <l>Conclude there is no ſtrict neceſſity</l>
+                  <l>Of our receiving that holy <note n="*" place="margin">Of the Lords Supper.</note> miſtery</l>
+                  <l>Of our ſalvation (Why are we tyed thus)</l>
+                  <l>Say they to ſhaddows, when Chriſt dwells in us</l>
+                  <l>Already, why on pictures muſt we feed</l>
+                  <l>When we poſſeſſe the ſubſtance.</l>
+               </lg>
+            </sp>
+            <sp>
+               <pb n="12" facs="tcp:113926:7"/>
+               <speaker>Antinom.</speaker>
+               <l> Twere indeed</l>
+               <l>Agreivous crime in me, for to confer</l>
+               <l>With one whoſe wayes, are ſo Irregular,</l>
+               <l>Untie thoſe bonds, do chain thy ſoul and be</l>
+               <l>No more pertaker, of loves familie</l>
+               <l>And were it not, that I have hope thou maiſt</l>
+               <l>Converted be, ere thou of death do taſte</l>
+               <l>I would diſcover thee,</l>
+            </sp>
+            <sp>
+               <speaker>Familiſt.</speaker>
+               <l> And I but that</l>
+               <l>I would not people draw to wonder at</l>
+               <l>Thy ſelf and me, I would unto thy wo</l>
+               <l>Firſt bang thee ſoundly, and then let thee go.</l>
+            </sp>
+            <trailer>The end of the third Seſtyad.</trailer>
+         </div>
+         <div n="4" type="part">
+            <pb n="13" facs="tcp:113926:7"/>
+            <head>The fourth Seſtyad.</head>
+            <argument>
+               <head>The Argument</head>
+               <l>
+                  <hi>A Libertine and an Arminian</hi>
+               </l>
+               <l>
+                  <hi>Each make known, your fond opinion;</hi>
+               </l>
+               <l>
+                  <hi>And by the ſtories, which they tell</hi>
+               </l>
+               <l>
+                  <hi>We may Judge both, are fit for hell.</hi>
+               </l>
+            </argument>
+            <sp>
+               <speaker>Libertine.</speaker>
+               <l>GIve me the Joyes on Earth, and tell not me</l>
+               <l>Of after hopes, future felicitie</l>
+               <l>I tire to think on, the time preſent I</l>
+               <l>Will ſpend in mirth, and pleaſant jollitie</l>
+               <l>Sit round my hearts, our heads with Ivie crownd</l>
+               <l>Let quaſſe Lyeus, and the healths go round</l>
+               <l>And ſinging pearls, unto <hi>Ceres,</hi> we</l>
+               <l>Unto the Harpe, will foot it luſtily</l>
+               <l>While here I live, Ile ſpend my time in mirth</l>
+               <l>Time is no more, when I am gone from earth</l>
+               <l>This night Ile clip a beauty, would tempt Jove</l>
+               <l>Equall to Juno, or the Queen of Love</l>
+               <l>Away with this ſame fond Philoſophie</l>
+               <l>That tells, the ſoul lives to Eternitie</l>
+               <l>Away with ſuch vain fancies when we fall</l>
+               <l>The ſoul dyes with the body, &amp;c.</l>
+            </sp>
+            <p>It hath been foretold by the Prophets and Apoſtles that ſuch men the latter dayes ſhall afford, and our own age hath verified, their ſpeech unto us, and even for the main queſtion of the Reſurrection whereat
+<pb n="14" facs="tcp:113926:8"/> they ſtick ſo mightily. was it not plainly foretold that men ſhould in the latter times ſay, where is the pro<g ref="char:EOLhyphen"/>miſe of his coming an level at this preſent time is there not exceprions taken againſt the Creation, the Ark, and divers other points, the ground whereof is ſuperfluity of wit, without ground of learning, which may be truly termed, <hi>Mater eirorum et vitiorum nutrix,</hi> now the chief cauſe of Atheiſm is SENSUALITY, which maketh men deſirous to remove all ſtops and impediments of their wicked life, among which, be<g ref="char:EOLhyphen"/>cauſe Religion is the chiefeſt, ſo as neither in this life without ſhame, they can perſiſt therein, nor if that be true without torment in the life to come, they whet their wits to annihilate the joys of heaven, wherein they ſee (if any ſuch be) they have no part; and like<g ref="char:EOLhyphen"/>wiſe the pains of hel, wherein their portion muſt needs be very great; they labor therefore, not that they may not deſerve thoſe pains, but that deſerving them there may be no ſuch pain to ſeize upon them, but what conceit can be imagined more baſe, then that man ſhould ſtrive to perſwade himſelf, even againſt the ſe<g ref="char:EOLhyphen"/>cret inſtinct (no doubt) of his own mind, that his ſoul is, as the ſoul of a beaſt, mortal, and corruptible with the body, againſt which barbarous opinion, their own Atheiſm is a very ſtrong Argument. <hi>For were not the ſoul a nature ſeparable from the body, how could it enter into diſcourſe of things meerly ſpiritual, and nothing at all pertaining to the body; ſurely the ſoul were not able to con<g ref="char:EOLhyphen"/>ceive any thing of heaven, no not ſo much as to diſpute a<g ref="char:EOLhyphen"/>gainſt heaven, and againſt God, if there were not in it ſom<g ref="char:EOLhyphen"/>what heavenly and derived from God,</hi> Thus much by the way.</p>
+            <sp>
+               <pb n="15" facs="tcp:113926:8"/>
+               <speaker>Arminian.</speaker>
+               <l> Theres no man ſhall,</l>
+               <l>Perſwade me, but man has, an Innate will</l>
+               <l>Power of himſelf, to commit good or ill,</l>
+               <l>I've ſet before thee, fire, and water, chuſe,</l>
+               <l>Saith God, ev'n which thou wils, which plainly ſhews</l>
+               <l>Mans power's of himſelf, to take or leave,</l>
+               <l>To take the good; or elſe the ill receive,</l>
+               <l>POPE PI<g ref="char:V">Ʋ</g>S, had a viſion on a day</l>
+               <l>As after Dinner on his couch he lay</l>
+               <l>A glorious Angel did before him ſtand</l>
+               <l>Bearing a graven Schedule in his hand</l>
+               <l>On the right ſide, was in a figure placd</l>
+               <l>The heaven of heavens with the Almighty gracd,</l>
+               <l>While all his glorious angels ſtanding round</l>
+               <l>Loud <hi>Allelujaes,</hi> to the THRONE, reſound:</l>
+               <l>On the left hand was ORC<g ref="char:V">Ʋ</g>S plac'd where ſate</l>
+               <l>
+                  <hi>Grim Pluto,</hi> placed in a throne of ſtate,</l>
+               <l>Foſhiond of burning braſſe, the Damned Crew</l>
+               <l>Howling in flames, their forepaſt Acts did rew,</l>
+               <l>Juſt in the midſt, betwixt both theſe there ſtood</l>
+               <l>A man wel ſhapt, and of proportion good,</l>
+               <l>Before whom hung a tablet, in which words</l>
+               <l>Of letter Capital, this ſenſe affords;</l>
+               <l>
+                  <hi>Behold, o man, before thee two ways lie,</hi>
+               </l>
+               <l>
+                  <hi>The one to joy, tother to miſerie</hi>
+               </l>
+               <l>
+                  <hi>Doth lead; chuſe which thou wilt, therefore tis ſure</hi>
+               </l>
+               <l>
+                  <hi>Man may his ſorrow, or his bliſſe procure</hi>
+               </l>
+               <l>
+                  <hi>By his own inclination; Ergo, I</hi>
+               </l>
+               <l>
+                  <hi>Will in this my opinion Live, and Die.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>THE AUTHOR.</speaker>
+               <l>Ah do not ſo, truſt not to thine own ſtrength,</l>
+               <l>For fear it plunge thee in Abiſſe at length.</l>
+            </sp>
+            <trailer>The end of the fourth Seſtyad.</trailer>
+         </div>
+         <div n="5" type="part">
+            <pb n="16" facs="tcp:113926:9"/>
+            <head>The fifth Seſtyad.</head>
+            <argument>
+               <head>The Argument.</head>
+               <l>
+                  <hi>A Papiſt on Pilgrimage he went</hi>
+               </l>
+               <l>
+                  <hi>Meets with a true beleeving Proteſtant,</hi>
+               </l>
+               <l>
+                  <hi>Twixt whom there divers propoſitions bee</hi>
+               </l>
+               <l>
+                  <hi>As bout the Maſſe and popes Supremacy,</hi>
+               </l>
+               <l>
+                  <hi>Til in the end, they both agree as one,</hi>
+               </l>
+               <l>
+                  <hi>And do extol the true Religion.</hi>
+               </l>
+            </argument>
+            <sp>
+               <speaker>Papiſt.</speaker>
+               <l>Holy Saint <hi>Chriſtopher</hi> be thou my guide</l>
+               <l>And ayd my ſpeed, that I by eventide</l>
+               <l>May arive ſafely at Saint <hi>Francis</hi> ſhrine,</l>
+               <l>That holy <hi>Francis</hi> that by ayd divine</l>
+               <l>Converſing in the ſolitary wood</l>
+               <l>Making wild fruits and water be his food,</l>
+               <l>O be propitius</l>
+            </sp>
+            <sp>
+               <speaker>Proteſtant,</speaker>
+               <l> See it is my chance</l>
+               <l>To meet with one will give me cauſe to advance</l>
+               <l>Gods truth above the unwritten veritie,</l>
+               <l>Worſhipful Pilgrim, all hail to thee</l>
+               <l>That wrapt in errors doſt thy journey take</l>
+               <l>Bare footed, while the ſirly thorny brake</l>
+               <l>Often draws blood.</l>
+            </sp>
+            <sp>
+               <speaker>Papiſt.</speaker>
+               <l> By Saint <hi>Sebaſtian</hi>
+               </l>
+               <l>I now have met a <note n="*" place="margin">A Prote<g ref="char:EOLhyphen"/>ſtant ſo termed by them, be<g ref="char:EOLhyphen"/>cauſe they place their cheif con<g ref="char:EOLhyphen"/>fidence in the Act of faith—.</note> SOLIFIDIAN;</l>
+               <l>Why thou deluded, how long wilt thou bee</l>
+               <l>Unto the holy Church an enemie,</l>
+               <pb n="17" facs="tcp:113926:9"/>
+               <l>And ſtill perſiſting in thy w<gap reason="illegible" resp="#OXF" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ed ſtate</l>
+               <l>Dye as an Heretick, excommunicate</l>
+               <l>By Chriſts Vicegerent.</l>
+            </sp>
+            <sp>
+               <speaker>Proteſtant.</speaker>
+               <l> My good pilgrim hold,</l>
+               <l>Enough and each too much, thou now haſt told</l>
+               <l>Ime not deluded, but with ſetled faith</l>
+               <l>I tye my ſelfe, to what the Scripture ſaith</l>
+               <l>Which in no place mentions the papall throne,</l>
+               <l>That Septred Kings, muſt yeeld ſubjection</l>
+               <l>To mytred Biſhops, that falſe power do vaunt</l>
+               <l>That <hi>Chriſtum ſimulant, &amp; contrachriſtum pugnat</hi>
+               </l>
+               <l>Nor do I weigh, how me, the pope ſhall handle</l>
+               <l>No though, he curſe me, with bel book and candle.</l>
+            </sp>
+            <sp>
+               <speaker>Papiſt.</speaker>
+               <l> The ayres infected, O that I had now</l>
+               <l>Some holy water, for to croſſe my brow</l>
+               <l>O ſire I blaſphemy have heard thou ſoul</l>
+               <l>Who art infected ſo, with errours foul,</l>
+               <l>Tis hard to cure thee.</l>
+            </sp>
+            <sp>
+               <speaker>Proteſt.</speaker>
+               <l> Nor do I deſire.</l>
+               <l>Thou ſhouldſt as my Phyſitian gaine thy hyre</l>
+               <l>Which will be more, then all the world affords</l>
+               <l>My precious ſoul,</l>
+            </sp>
+            <sp>
+               <speaker>Papiſt.</speaker>
+               <l> Although to bandy words</l>
+               <l>With thee an Heritick, were fond and Vaine</l>
+               <l>Yet ſo I ſee, thart learn'd Ile not abſtain</l>
+               <l>But I wil converſe a while, know then that Rome</l>
+               <l>Is the moſt ancient Church (where martyrdome)</l>
+               <l>Diverſe Apoſtles did receive, and there</l>
+               <l>By Chriſts appointment, is S. <hi>Peters chair</hi>
+               </l>
+               <l>Where Chriſts Vice-gerent, <hi>Peters</hi> ſeat doth fill</l>
+               <l>And what he doth Comand, even Chriſt doth wil</l>
+               <l>He cannot erre in ought, for on this ſtone</l>
+               <l>Chriſt builds his Church (all oppoſition)</l>
+               <l>Shall not prevail againſt him, every ſtate</l>
+               <l>Al Kings on Earth to him ſubordinate;</l>
+               <l>He to the glorious fun I may compare.</l>
+               <l>Kings to the Moon, who of his luſtre ſhare.</l>
+            </sp>
+            <sp>
+               <pb n="18" facs="tcp:113926:10"/>
+               <speaker>Proteſt.</speaker>
+               <lg>
+                  <l> I hear toomuch, although tis truth <hi>Rome</hi> was</l>
+                  <l>Once cald the mother Church, but truth did paſſe</l>
+                  <l>From <hi>Rome,</hi> drove thence by erring fallacies,</l>
+                  <l>By ground leſs fables, ſuperſtitious lies,</l>
+                  <l>When Gods love was relinquiſht, and inſtead</l>
+                  <l>Thereof, was mans traditions honored.</l>
+                  <l>Nor is the Pope to ſit in Chriſt his throne.</l>
+                  <l>For Chriſt himſelf doth rule his Church alone;</l>
+                  <l>Nor can we find by what our Savior ſaid</l>
+                  <l>(To <hi>Peter)</hi> that on him alone he laid</l>
+                  <l>A charge to rule his Church, but when he ſpake</l>
+                  <l>To <hi>Peter,</hi> he did the reſt his Partners make,</l>
+                  <l>And not on <hi>Peter,</hi> but upon his faith</l>
+                  <l>Chriſt builds his Church, when on this rock he ſaith</l>
+                  <l>Ile build my Church, and whereas you compare</l>
+                  <l>The <hi>Pope</hi> unto the Sun, you groſly erre,</l>
+                  <l>But rather we ful aptly render may</l>
+                  <l>The <hi>Pope</hi> as Moon, for as one wel doth ſay.</l>
+                  <l>
+                     <hi>—Fratri contraria Phabe</hi>
+                  </l>
+                  <l>
+                     <hi>Ibit &amp; obliquum, big as agitare per orbem</hi>
+                  </l>
+                  <l>
+                     <hi>Indignata, diem poſeit ſibit totaque diſcors</hi>
+                  </l>
+                  <l>
+                     <hi>Machina convulſi, turbabit foe dera mundi.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>The Moon diſdeigning of her rule by night</l>
+                  <l>Would needs rule <hi>Phabus</hi> Carr the day to light,</l>
+                  <l>And by this civil, and unnatural Jarr</l>
+                  <l>Inforced natures bands to fry in Warr.</l>
+               </lg>
+               <lg>
+                  <l>Even ſo at firſt, the Aſpiring <hi>Popes of Rome,</hi>
+                  </l>
+                  <l>When they would Kings as wel as Prieſts become</l>
+                  <l>Layd claim, and urgd it their Prerogative</l>
+                  <l>For to diſpoſe of Crowns, and thoſe did ſtrive</l>
+                  <l>For to make fruſtrate, Their ſo il Intent</l>
+                  <l>They preſently deprivd of Government,</l>
+                  <l>And then being ſeated in the Suns bright Carr</l>
+                  <l>They ſtreight involvd all nations in VVarr,</l>
+                  <l>And now the ſole Incendiaries be</l>
+                  <l>For to ſet Crown and Crown at enmity.</l>
+               </lg>
+            </sp>
+            <sp>
+               <pb n="19" facs="tcp:113926:10"/>
+               <speaker>Papiſt.</speaker>
+               <l> I do find ſomething in me prompts me now</l>
+               <l>The <hi>Popes</hi> uſurped power to diſavow.</l>
+            </sp>
+            <sp>
+               <speaker>Protestant.</speaker>
+               <lg>
+                  <l> This man of ſin doth hold the world in hand,</l>
+                  <l>He holds his Papal power by Chriſts command</l>
+                  <l>And leſt the vulgar ſhould into it pry</l>
+                  <l>He doth lock up the ſacred Verity,</l>
+                  <l>And feeds the peoples minds with outward gloſſes.</l>
+                  <l>VVith pleaſant muſick, Images, and Croſſes,</l>
+                  <l>VVith Pilgrimages, Offerings, and Oblations,</l>
+                  <l>VVith holy Rood days, and ſuch recreations.</l>
+                  <l>VVith holy-water, wafer, cakes, and challices,</l>
+                  <l>VVith Copes, &amp; Mitres, Croſiers, ſuch like ſallacies</l>
+                  <l>Bewitch the people ſo, they blindly run</l>
+                  <l>To all exceſſe of Superſtition;</l>
+                  <l>Again, that he his Prieſts may magnifie</l>
+                  <l>To win them honor in the peoples eye</l>
+                  <l>Theyre told, when once the words of conſecration</l>
+                  <l>Are uttred, juſt upon the elevation</l>
+                  <l>Of the bread God, 'tis very Chriſt even hee,</l>
+                  <l>VVho for their fins, did ſuffer on the tree,</l>
+                  <l>O horrid, that a mortal ſhould create</l>
+                  <l>Even his Creator.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Papiſt.</speaker>
+               <l> I now ſee the ſtate</l>
+               <l>That I am in is wretched, and by thee</l>
+               <l>O happy friend I am converted, ſee</l>
+               <l>I am not as I was, I here lay by</l>
+               <l>This weed of ſhame, and now intirely I</l>
+               <l>VVil be a Proteſtant.</l>
+            </sp>
+            <sp>
+               <speaker>Proteſtant.</speaker>
+               <l> If ſo</l>
+               <l>Thy tongue and heart in equipage do go,</l>
+               <l>Come follow me, and thou wilt find theres none</l>
+               <l>Of true Belief, but Proteſtants alone.</l>
+            </sp>
+            <trailer>The end of the fifth Seſtyad.</trailer>
+         </div>
+         <div n="6" type="part">
+            <pb n="20" facs="tcp:113926:11"/>
+            <head>THE SIXTH SESTYAD.</head>
+            <argument>
+               <head>The Argument.</head>
+               <l>Apollo <hi>rageth that the noble bay</hi>
+               </l>
+               <l>
+                  <hi>Is worn by thoſe that do not merit it,</hi>
+               </l>
+               <l>
+                  <hi>He and ſhe Muſes an amer cement lay</hi>
+               </l>
+               <l>
+                  <hi>On ſome, that truſting to their ſor did wit</hi>
+               </l>
+               <l>
+                  <hi>Do undertake, of things moſt high to ſay,</hi>
+               </l>
+               <l>
+                  <hi>Yet cannot words unto the matter fit:</hi>
+               </l>
+               <l>
+                  <hi>Mean time</hi> Urania <hi>doth in tears deplore</hi>
+               </l>
+               <l>
+                  <hi>Her</hi> 
+                  <note n="*" place="margin">Quarles.</note> 
+                  <hi>Peets loſſe, whoſe like ſhal be no more.</hi>
+               </l>
+            </argument>
+            <lg n="1">
+               <head>1.</head>
+               <l>HE that doth bear the ſilver ſhining bow</l>
+               <l>Whoſe muſick doth ſurpaſs, that of the ſphears</l>
+               <l>VVho ſlew great <note n="*" place="margin">
+                     <hi>Ovids Metamoi.</hi> Lib. 1.</note> 
+                  <hi>Pythan,</hi> and did <hi>Vulcan</hi> ſhow</l>
+               <l>VVhere <hi>Mars</hi> and <hi>Vanus,</hi> were, to increaſe his fears.</l>
+               <l>
+                  <hi>Jove</hi> and <hi>Latonas</hi> ſon, whom Readers know</l>
+               <l>In heaven he of <hi>Sol,</hi> the title bears:</l>
+               <l>In earth he <hi>Liber Pater</hi> called is,</l>
+               <l>And eke <hi>Apollo</hi> in the ſhades of <hi>Dis.</hi>
+               </l>
+            </lg>
+            <lg n="2">
+               <head>2.</head>
+               <l>One time, as on the ſpire of's * Temple hee <note place="margin">At <hi>Delphos</hi>
+                  </note>
+               </l>
+               <l>Did ſit, he caſt his moſt refulgent eye</l>
+               <l>Towards <hi>Pernaſſus</hi> Mount, where he might ſee</l>
+               <l>The ſacred Nine, not now melodiouſly</l>
+               <l>As they were wont, to chaunt in Jollitie</l>
+               <l>
+                  <hi>Apolloes</hi> praiſe, and the great <note n="*" place="margin">Jupiter</note> Diety,</l>
+               <l>That turnd <hi>IO</hi> to a Cow, but now they were</l>
+               <l>VVith ſorrow overcome, did joy forheare.</l>
+            </lg>
+            <lg n="3">
+               <head>3.</head>
+               <l>VVith ſpeed to <hi>Hellicon</hi> he took his flight.</l>
+               <l>VVhere being come, the Muſes did ariſe</l>
+               <l>And made obeayſance, as was requiſite,</l>
+               <l>To whom ſaid <note n="*" place="margin">A name of <hi>Apollo.</hi>
+                  </note> 
+                  <hi>Sminthus,</hi> why, with downeaſt eye,</l>
+               <l>Are your fair Aſpects clouded, and why dight</l>
+               <l>In ſable weeds, the reaſon I ſurmiſe,</l>
+               <pb n="21" facs="tcp:113926:11"/>
+               <l>VVhich doth afflict me more, then when my <note n="*" place="margin">Phaeton.</note> ſon</l>
+               <l>By thoſe unruly Steeds, to death was done.</l>
+               <lg n="4">
+                  <head>4.</head>
+                  <l>Shal part of <note n="*" place="margin">
+                        <hi>Daphne</hi> or the <hi>bay tree.</hi>
+                     </note> her, whom once I lovd ſo dear,</l>
+                  <l>Be worn by thoſe whoſe for did minds I hate;</l>
+                  <l>Why do I, for to ſhoot, the ſlaves forbear,</l>
+                  <l>And with my Arrows, their breſts penetrate;</l>
+                  <l>Who for to claim the Lawrel do not fear.</l>
+                  <l>Due only unto thoſe, whoſe happy fate</l>
+                  <l>Hath raiſed them, my Prophets for to bee,</l>
+                  <l>Or elſe can claim the ſame by victorie.</l>
+               </lg>
+               <lg n="5">
+                  <head>5.</head>
+                  <l>Each fellow now, that hath but had a view</l>
+                  <l>Of the learnd <hi>Phrygians</hi> Fables, groweth bold,</l>
+                  <l>And name of Poet doth to himſelf accrew;</l>
+                  <l>That <note n="*" place="margin">M. P.</note> Ballad maker too, is now extold</l>
+                  <l>With the great name of Poet, <note n="*" place="margin">J. T.</note> He that knew</l>
+                  <l>Better far how to row, then pen to hold,</l>
+                  <l>His ſordid lines, are ſweld to ſuch a weight,</l>
+                  <l>Theyre able for to make, his Boat afreight.</l>
+               </lg>
+               <lg n="6">
+                  <head>6.</head>
+                  <l>The god of waves hath been my enemy,</l>
+                  <l>Elſe that baſe Fool, had Haddocks fed ere now.</l>
+                  <l>And <hi>Fennor</hi> might have wrote his Ellegy,</l>
+                  <l>(Another coxcomb) that his wit, to ſhow</l>
+                  <l>Wrote many things, the beſt not worth the eye</l>
+                  <l>Of any ſchoolboy, doth his genders know;</l>
+                  <l>But while the Fools I rate, let me not be</l>
+                  <l>Forgetful of thoſe writers lovd by me.</l>
+               </lg>
+               <lg n="7">
+                  <head>7.</head>
+                  <l>Although the <hi>Bard,</hi> whoſe lines unequalled,</l>
+                  <l>Who only did deſerve a Poets name</l>
+                  <l>To my Eternal grief, be long ſince dead,</l>
+                  <l>His lines for ever ſhal preſerve his Fame.</l>
+                  <l>So * his who did ſo neer his footpaths tread <note place="margin">Samuel Danniel.</note>
+                  </l>
+                  <l>Whoſe lines as neer as <hi>Virgils Homers</hi> came,</l>
+                  <l>Do equal <hi>Spencers,</hi> who the ſoul of verſe</l>
+                  <l>In his admired Poems doth rehearſe.</l>
+               </lg>
+               <lg n="8">
+                  <pb n="22" facs="tcp:113926:12"/>
+                  <head>8.</head>
+                  <l>But ah whoſe this whoſe ſhade before me ſtands</l>
+                  <l>O tis the Man, whoſe Fame the earth doth fil,</l>
+                  <l>VVhoſe vertue is the talk of Forraign Lands</l>
+                  <l>VVhile they admire his Feats of <hi>Arms</hi> his skil</l>
+                  <l>In Poeſic, while he bove all commands</l>
+                  <l>The Muſes, who ſo waited on his Quil</l>
+                  <l>That like to <hi>Sidu<gap reason="illegible" resp="#OXF" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>;</hi> none ere wrote before</l>
+                  <l>His birth, not now hees dead ſhal ere write more.</l>
+               </lg>
+               <lg n="9">
+                  <head>9.</head>
+                  <l>See him whoſe Tragick Sceans <hi>E<g ref="char:V">Ʋ</g>RIPIDES</hi>
+                  </l>
+                  <l>Doth equal, and with <hi>SOPHOCLES</hi> we may</l>
+                  <l>Compare great <hi>SHAKESPEAR ARISTOPHANES</hi>
+                  </l>
+                  <l>Never like him, his Fancy could diſplay,</l>
+                  <l>VVitneſs-he Prince of <hi>Tyre,</hi> his Pericles,</l>
+                  <l>His ſweet and his to be admired lay</l>
+                  <l>He wrote of luſtful <hi>Tarquins</hi> Rape ſhews he</l>
+                  <l>Did underſtand the depth of Poeſie.</l>
+               </lg>
+               <lg n="10">
+                  <head>10.</head>
+                  <l>But <note n="*" place="margin">Drayton.</note> thou dear ſoul, whoſe lines when <hi>I</hi> behold</l>
+                  <l>
+                     <hi>I</hi> do aſtoniſht ſtand, of whom Fame ſays</l>
+                  <l>By after times, Thy <note n="*" place="margin">Polyolbion.</note> ſongs ſhal be extold</l>
+                  <l>And mentioned be as equalling my lays</l>
+                  <l>Thou who ſo ſweetly EDVVARDS woes haſt told</l>
+                  <l>VVhen other Poems; though of worth decays,</l>
+                  <l>
+                     <hi>Thine</hi> ſhal be honord, and ſhal aye ſubfiſt</l>
+                  <l>
+                     <hi>In</hi> ſpight of dark oblions hiding miſt.</l>
+               </lg>
+               <lg n="11">
+                  <head>11.</head>
+                  <l>So * His that Divine PLAUTUS equalled <note place="margin">Ben. Iohnſon.</note>
+                  </l>
+                  <l>Whoſe Commick vain <hi>MENANDER</hi> nere could hit,</l>
+                  <l>Whoſe tragick ſceans ſhal be with wonder Read</l>
+                  <l>By after ages for unto his wit</l>
+                  <l>My ſelfe gave perſonal ayd <hi>I</hi> dictated</l>
+                  <l>To him when as <hi>Sejanus</hi> fall he writ,</l>
+                  <l>
+                     <hi>And</hi> yet on earth ſome fooliſh ſots there bee</l>
+                  <l>
+                     <hi>That</hi> dare make Randolf his Rival in degree.</l>
+               </lg>
+               <lg n="12">
+                  <head>12.</head>
+                  <l>All hail eke unto <note n="*" place="margin">Mr. May.</note> thee that didſt tranſlate</l>
+                  <l>My loved <hi>L<g ref="char:V">Ʋ</g>CAN</hi> into thine own tongue,</l>
+                  <pb n="23" facs="tcp:113926:12"/>
+                  <l>And what he could not finiſh ſnatcht by fate,</l>
+                  <l>Thou haſt compleated his ingenuous <note n="*" place="margin">P<gap reason="illegible" resp="#OXF" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>ſalla.</note> ſong</l>
+                  <l>Thy Fame with his ſhal nere be out of date</l>
+                  <l>Nor ſhal baſe Momus carpe thy glory wrong,</l>
+                  <l>But of mine own tree, Ile a garland frame</l>
+                  <l>For thee, and mongſt my Propets rank thy name,</l>
+               </lg>
+               <lg n="13">
+                  <head>13. <note place="margin">Mr <hi>Brown.</hi>
+                     </note>
+                  </head>
+                  <l>So * thine whoſe rural quil ſo high doth ſound</l>
+                  <l>
+                     <hi>Theocritus</hi> or <hi>Mantnans</hi> ere could bee</l>
+                  <l>So ſweet and ſo ſententious ever found</l>
+                  <l>As are thy <hi>Paſtorals</hi> of <hi>Britanie,</hi>
+                  </l>
+                  <l>Thy fame for aye ſhal to the skies reſound,</l>
+                  <l>And <hi>I</hi> pronounce Thy fluent Poeſie</l>
+                  <l>Singing of ſhepherds is the beſt ere wit</l>
+                  <l>
+                     <hi>Invented,</hi> and none ere yet equalled it.</l>
+               </lg>
+               <lg n="14">
+                  <head>14</head>
+                  <l>Nor thine O <hi>Heywood</hi> worthy to be read</l>
+                  <l>By Kings, whoſe books of eloquence are ſuch</l>
+                  <l>Enough in praiſe of thee, can nere be ſed</l>
+                  <l>Nor can my Verſes, ere extoll too much</l>
+                  <l>Thy reall worth, whoſe lines unparaled</l>
+                  <l>Although ſome envious criticks ſeem to grutch</l>
+                  <l>Shall live on earth to thy eternall Fame</l>
+                  <l>When theirs in grave ſhall rot, without a name.</l>
+               </lg>
+               <lg n="15">
+                  <head>15</head>
+                  <l>So eke ſhall yours, great <hi>Davenant, Sherley</hi> and</l>
+                  <l>Thine learned <hi>Goffe, Banmont,</hi> and <hi>Fletchers</hi> to</l>
+                  <l>With <note n="*" place="margin">Mr <hi>Philip Maſſenger.</hi>
+                     </note> his that the ſweet Renegaddo pend</l>
+                  <l>With <note n="*" place="margin">Mr <hi>Allen.</hi>
+                     </note> his who <hi>Creſſey</hi> ſang, and <hi>Poycters</hi> to</l>
+                  <l>Your works, your names for ever ſhal commend</l>
+                  <l>Joyned with <note n="*" place="margin">Mr <hi>Nabbs.</hi>
+                     </note> his, that wrot how <hi>Scipie,</hi>
+                  </l>
+                  <l>Orethrew great <hi>Hanniball,</hi> his ingenious lines</l>
+                  <l>Shall be a pattern, for the after times.</l>
+               </lg>
+               <lg n="16">
+                  <head>16.</head>
+                  <l>Nor will I <note n="*" place="margin">Mr <hi>withers.</hi>
+                     </note> thee forget whoſe Poeſie</l>
+                  <l>Is pure, whoſe Emblems, Satyrs Paſtoralls</l>
+                  <pb n="24" facs="tcp:113926:13"/>
+                  <l>Shal live on earth even to Eternity,</l>
+                  <l>Nor * Thee whoſe Poems loudly on me cals</l>
+                  <l>For my applauſe, which here I give, and I <note place="margin">Mr <hi>Randal</hi>
+                     </note>
+                  </l>
+                  <l>Pronounce <note n="*" place="margin">Mr <hi>Mills</hi>
+                     </note> his merit, that ſo high <gap reason="illegible" resp="#OXF" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>tals</l>
+                  <l>The Muſes, in his Night-watch, great to bee,</l>
+                  <l>And times to come ſhal hugg his Poeſie.</l>
+               </lg>
+               <lg n="17">
+                  <head>17.</head>
+                  <l>But why, <hi>
+                        <g ref="char:V">Ʋ</g>rania,</hi> hangſt thou ſo thy head,</l>
+                  <l>What grievous loſs hath reſt thy Joys away;</l>
+                  <l>Quoth ſhe, knows not <hi>Apollo Q<g ref="char:V">Ʋ</g>ARLES</hi> is dead</l>
+                  <l>That next to <hi>BARTAS,</hi> ſang the heavenliſt lay,</l>
+                  <l>And who is he on earth, his ſteps can tread,</l>
+                  <l>So ſhal my glory come unto decay;</l>
+                  <l>At this ſhe wept, and wailing wrung her hands,</l>
+                  <l>The Muſes mourning round about her ſtands.</l>
+               </lg>
+               <lg n="18">
+                  <head>18.</head>
+                  <l>Quoth then <hi>Apollo,</hi> lay this grief aſide,</l>
+                  <l>I do aſſure thee, that thy honor ſhal</l>
+                  <l>Not fade, but be far greater Amplified;</l>
+                  <l>Theres one who now upon thy name doth cal,</l>
+                  <l>Who hath by <hi>Clio</hi> formerly been tried,</l>
+                  <l>And by her wel approvd; He ſurely ſhal</l>
+                  <l>Succeed great <hi>Quarles,</hi> if thou not fâte to inſpite</l>
+                  <l>And warm his Boſome with thy hotteſt fire.</l>
+               </lg>
+               <lg n="19">
+                  <head>19.</head>
+                  <l>Hereat ſhe cheared was, and now a<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> earſt</l>
+                  <l>
+                     <hi>Apollo</hi> in the midſt, the Mules Nine</l>
+                  <l>Began to ſing, CLIO, <hi>Joves</hi> Deeds rehearſt</l>
+                  <l>VVhen he the Gyants paſht, her ſong Divine</l>
+                  <l>
+                     <hi>Apollo</hi> ſhapt his tyre unto, where firſt</l>
+                  <l>I did ſet ſorth I muſt again decline:</l>
+                  <l>What ſhallow fools ſhal prate I do not care,</l>
+                  <l>Fly Thou my Book to thoſe that Learned are.</l>
+                  <l>
+                     <hi>Nunquam me Impune laceſſit.</hi>
+                  </l>
+               </lg>
+               <trailer>The end of the ſixth and laſt Seſtyad.</trailer>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
